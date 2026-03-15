@@ -1,0 +1,7 @@
+# CAdES (.p7m) verification
+asn1crypto>=1.5.1
+cryptography>=41.0.0
+
+# PAdES (PDF embedded signature) verification
+pyhanko>=0.21.0
+pyhanko-certvalidator>=0.26.0
