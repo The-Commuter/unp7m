@@ -46,8 +46,9 @@ Scarica l'ultima versione dalla pagina [Releases](../../releases):
 
 **Windows:**
 1. Scarica e decomprimi `unp7m-windows.zip`
-2. Tasto destro su un file `.p7m` → **Apri con** → **Scegli un'altra app** → **Cerca nel PC** → seleziona `unp7m.exe`
-3. Spunta **"Usa sempre questa app"** per associare tutti i `.p7m`
+2. **Importante — sblocco SmartScreen**: al primo avvio Windows potrebbe mostrare l'avviso *"Windows ha protetto il PC"*. Clicca **"Ulteriori informazioni"** → **"Esegui comunque"**. Basta farlo una sola volta.
+3. Tasto destro su un file `.p7m` → **Apri con** → **Scegli un'altra app** → **Cerca nel PC** → seleziona `unp7m.exe`
+4. Spunta **"Usa sempre questa app"** per associare tutti i `.p7m`
 
 ### Cosa succede al doppio clic
 
