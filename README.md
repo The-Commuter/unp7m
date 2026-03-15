@@ -35,11 +35,11 @@ Scarica l'ultima versione dalla pagina [Releases](../../releases):
 
 **macOS:**
 1. Scarica e decomprimi `unp7m-macos.zip`
-2. **Importante — sblocco Gatekeeper**: macOS blocca le app scaricate da internet non firmate. Esegui una volta dal Terminale:
+2. **Importante — sblocco Gatekeeper**: macOS blocca le app scaricate da internet non firmate. Apri il Terminale ed esegui:
    ```bash
    xattr -cr ~/Downloads/unp7m.app
    ```
-   In alternativa: tasto destro su `unp7m.app` → **Apri** → clicca **Apri** nel dialogo di avviso.
+   (adatta il percorso se hai spostato il file altrove)
 3. Sposta `unp7m.app` dove preferisci (es. `/Applicazioni`)
 4. Tasto destro su un file `.p7m` → **Apri con** → **Altro...** → seleziona `unp7m.app`
 5. Spunta **"Apri sempre con"** per associare tutti i `.p7m`
